@@ -21,7 +21,7 @@
     "show_related_post": true,
     "open_link_inside_app": true,
     "enable_exit_dialog": true,
-    "enable_rtl_mode": false,
+    "enable_rtl_mode": true,
     "enable_dark_mode_as_default_theme": true
   },
   "ads": {
