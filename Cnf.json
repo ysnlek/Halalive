@@ -17,7 +17,7 @@
     "show_post_list_in_large_style": false,
     "show_post_list_header": true,
     "show_post_list_short_description": true,
-    "show_post_date": false,
+    "show_post_date": true,
     "show_related_post": true,
     "open_link_inside_app": true,
     "enable_exit_dialog": true,
