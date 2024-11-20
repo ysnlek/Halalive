@@ -6,6 +6,7 @@
   "app": {
     "status": true,
     "redirect_url": "",
+    "VANCED_FLIX_PACKAGES": "net.mbc.shahid",
     "more_apps_url": "https://codecanyon.net/user/solodroid/portfolio",
     "privacy_policy_url": "https://sites.google.com/view/blogger-news-app-privacy",
     "publisher_info_url": "https://sites.google.com/view/blogger-news-app-publisher",
