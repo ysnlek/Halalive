@@ -24,7 +24,7 @@
     "enable_exit_dialog": true,
     "enable_rtl_mode": true,
     "enable_dark_mode_as_default_theme": true,
-    "LATEST_VERSION_CODE": 4
+    "LATEST_VERSION_CODE": 4,
   },
   "ads": {
     "ad_status": false,
